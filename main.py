@@ -398,7 +398,7 @@ async def start_handler(_, message):
     reply_markup = InlineKeyboardMarkup(buttons)
 
     await message.reply_animation(
-        animation="https://frozen-imageapi.lagendplayersyt.workers.dev/file/2e483e17-05cb-45e2-b166-1ea476ce9521.mp4",
+        animation="https://www.kapwing.com/videos/689eb8aaa886709519016b08",
         caption=caption,
         parse_mode=ParseMode.MARKDOWN,
         reply_markup=reply_markup
